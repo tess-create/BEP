@@ -1,0 +1,3 @@
+   *.xes
+   __pycache__/
+   *.pyc
