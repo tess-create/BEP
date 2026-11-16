@@ -1,3 +1,11 @@
    *.xes
+   *.pkl
    __pycache__/
    *.pyc
+admissions_log.csv
+Dataset BPIC 2019/Dataset BPIC 2019/BPI_Challenge_2019.xes
+Dataset BPIC 2020/Dataset BPIC 2020/DomesticDeclarations.xes
+*.xes
+EMM_experiments.ipynb
+*.pkl
+/pysubgroup
